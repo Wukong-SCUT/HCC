@@ -1,0 +1,9 @@
+best: 0.0
+dimension: 1000
+lower_bound: -100
+upper_bound: 100
+sub_num: 20
+subgroups: [50, 51, 26, 26, 101, 101, 26, 26, 51, 26, 101, 26, 101, 51, 26, 26, 26, 101, 51, 26]
+overlap_degree: 1
+dimension_real: 1019
+subgroups_type: [26, 50, 51, 101]

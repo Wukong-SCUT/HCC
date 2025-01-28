@@ -1,0 +1,9 @@
+best: 0.0
+dimension: 1000
+lower_bound: -100
+upper_bound: 100
+sub_num: 20
+subgroups: [50, 60, 35, 35, 110, 110, 35, 35, 60, 35, 110, 35, 110, 60, 35, 35, 35, 110, 60, 35]
+overlap_degree: 10
+dimension_real: 1190
+subgroups_type: [50, 35, 60, 110]
